@@ -53,6 +53,3 @@ function AddTask({ setTasks }) {
 }
 
 export default AddTask;
-
-  
-
